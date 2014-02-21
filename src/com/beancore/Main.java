@@ -2,6 +2,10 @@ package com.beancore;
 
 import com.beancore.ui.MainFrame;
 
+/**
+ * @author liaozhenliang howard
+ *
+ */
 public class Main {
     public static void main(String args[]) throws InterruptedException {
 	MainFrame mainFrame;
