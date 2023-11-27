@@ -1,24 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T06:09:52.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FUQqF5p8OxXJZmixAJZa" version="21.3.2" type="github">
-  <diagram name="Page-1" id="DBcoJDECFVtpzCTX-xRp">
-    <mxGraphModel dx="1674" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-11-27T03:14:07.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" version="22.1.4" etag="wYJm8M1Yi1x0HwIeSzxU" type="github">
+  <diagram name="Page-1" id="45MIY9vwi9Q1Qho7rRex">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GbOlOnfWVpy9EhCApZUT-1" value="w_s 窗口大小&lt;br&gt;b_seq 开始序列号&lt;br&gt;jitter_s 抖动缓冲长度&lt;br&gt;load cpu 负载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319" y="690" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="GbOlOnfWVpy9EhCApZUT-2" value="w_s 窗口大小" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="840" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GbOlOnfWVpy9EhCApZUT-3" value="w_b 开始序列号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="870" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GbOlOnfWVpy9EhCApZUT-4" value="JitterBuffer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="900" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GbOlOnfWVpy9EhCApZUT-5" value="CPU load" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="930" width="120" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
