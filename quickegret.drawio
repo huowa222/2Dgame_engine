@@ -1505,7 +1505,7 @@
         <mxCell id="nV6gUwvlQ9QyV-TH0ie8-301" value="&lt;div&gt;AI 调用服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1675" y="-905" width="75" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="nV6gUwvlQ9QyV-TH0ie8-302" value="CEF" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="nV6gUwvlQ9QyV-TH0ie8-302" value="NFS" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1715" y="-1045" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nV6gUwvlQ9QyV-TH0ie8-303" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
