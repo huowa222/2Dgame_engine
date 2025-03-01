@@ -535,10 +535,10 @@
         <mxCell id="ZZ9XeQo50VW3FPfhGWlt-293" value="Prober" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="1689" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZZ9XeQo50VW3FPfhGWlt-294" value="Forwarded server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZZ9XeQo50VW3FPfhGWlt-294" value="Relay server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1787" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZZ9XeQo50VW3FPfhGWlt-295" value="Forwarded server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZZ9XeQo50VW3FPfhGWlt-295" value="Relay server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="1787" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZZ9XeQo50VW3FPfhGWlt-298" value="Message&lt;div&gt;Queue&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
